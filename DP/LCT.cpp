@@ -54,3 +54,6 @@ struct LCT
             return min(t[idx].eval(x), get(2 * idx + 2, m + 1, r, x));
     }
 };
+
+// add_line(0, 1, SZ, Line(m, b)
+// get_line(0, 1, SZ, x)
