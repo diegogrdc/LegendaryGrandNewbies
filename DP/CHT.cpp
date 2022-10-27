@@ -1,3 +1,4 @@
+bool Q;
 struct Line {
     mutable ll k, m, p;
     bool operator<(const Line& o) const {
