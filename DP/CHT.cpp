@@ -1,3 +1,6 @@
+/* This is for MAX
+For MIN, insert -k and -m and dp[i] = -query()
+*/
 bool Q;
 struct Line {
     mutable ll k, m, p;
